@@ -1,0 +1,245 @@
+{
+  "overview": {
+    "total_spend": 5258304.0600000005,
+    "total_attributed_revenue": 14773594.65,
+    "total_business_revenue": 31406165.81,
+    "overall_roas": 2.8095740530455364,
+    "marketing_attribution_rate": 47.04042747330831
+  },
+  "platforms": [
+    {
+      "platform": "Facebook",
+      "impression": 218621950,
+      "clicks": 2958578,
+      "spend": 2169972.91,
+      "attributed revenue": 5657380.19,
+      "ctr": 1.348861742634286,
+      "cpc": 0.7500313680662927,
+      "roas": 2.596456012225339
+    },
+    {
+      "platform": "Google",
+      "impression": 251503825,
+      "clicks": 10441064,
+      "spend": 1641532.86,
+      "attributed revenue": 5018955.38,
+      "ctr": 4.101058379048107,
+      "cpc": 0.2994457350830817,
+      "roas": 3.038436114831027
+    },
+    {
+      "platform": "TikTok",
+      "impression": 179837941,
+      "clicks": 2701785,
+      "spend": 1446798.29,
+      "attributed revenue": 4097259.08,
+      "ctr": 1.5065502223317584,
+      "cpc": 0.5412317701157185,
+      "roas": 2.8395317962332167
+    }
+  ],
+  "tactics": [
+    {
+      "tactic": "ASC",
+      "impression": 114459312,
+      "clicks": 1715079,
+      "spend": 1146099.8,
+      "attributed revenue": 3200408.18,
+      "ctr": 1.5005866487222252,
+      "cpc": 0.6727610390096209,
+      "roas": 2.7930465558721456
+    },
+    {
+      "tactic": "Display",
+      "impression": 21963777,
+      "clicks": 87284,
+      "spend": 145416.38,
+      "attributed revenue": 232587.2,
+      "ctr": 0.3962946908554253,
+      "cpc": 1.69176232634793,
+      "roas": 1.600254844952251
+    },
+    {
+      "tactic": "Non-Branded Search",
+      "impression": 229540048,
+      "clicks": 10353780,
+      "spend": 1496116.48,
+      "attributed revenue": 4786368.18,
+      "ctr": 4.512698788847294,
+      "cpc": 0.1447438916092097,
+      "roas": 3.198234033706446
+    },
+    {
+      "tactic": "Prospecting",
+      "impression": 104162638,
+      "clicks": 1243499,
+      "spend": 1023873.11,
+      "attributed revenue": 2456972.01,
+      "ctr": 1.1971368365463464,
+      "cpc": 0.8273016971229643,
+      "roas": 2.399865468578532
+    },
+    {
+      "tactic": "Retargeting",
+      "impression": 123462369,
+      "clicks": 1973486,
+      "spend": 1002785.4,
+      "attributed revenue": 3030780.37,
+      "ctr": 1.5977754915715539,
+      "cpc": 0.5089783932673234,
+      "roas": 3.021552332299719
+    },
+    {
+      "tactic": "Spark Ads",
+      "impression": 56375572,
+      "clicks": 728299,
+      "spend": 444012.89,
+      "attributed revenue": 1066478.71,
+      "ctr": 1.293691260772236,
+      "cpc": 0.6164896494286403,
+      "roas": 2.4148172120780447
+    }
+  ],
+  "performance_days": {
+    "best_roas": {
+      "date": "2025-07-28 00:00:00",
+      "roas": 2.970027876471886,
+      "spend": 37630.299999999996,
+      "revenue": 111763.04000000001
+    },
+    "worst_roas": {
+      "date": "2025-07-12 00:00:00",
+      "roas": 2.641859433762224,
+      "spend": 45368.22,
+      "revenue": 119856.46
+    }
+  },
+  "weekly_trends": [
+    {
+      "week": 20,
+      "spend": 41583.13,
+      "attributed revenue": 116120.35333333333,
+      "roas": 2.7910651156957758,
+      "total revenue": 229559.97333333336
+    },
+    {
+      "week": 21,
+      "spend": 39272.24285714286,
+      "attributed revenue": 108652.36714285715,
+      "roas": 2.7692970469360385,
+      "total revenue": 226035.68
+    },
+    {
+      "week": 22,
+      "spend": 43896.42857142857,
+      "attributed revenue": 123512.06857142856,
+      "roas": 2.8131327875619014,
+      "total revenue": 267614.29142857145
+    },
+    {
+      "week": 23,
+      "spend": 47805.6,
+      "attributed revenue": 134372.06428571427,
+      "roas": 2.811507361024575,
+      "total revenue": 298728.3542857143
+    },
+    {
+      "week": 24,
+      "spend": 47290.638571428564,
+      "attributed revenue": 133726.52142857143,
+      "roas": 2.8267703955898456,
+      "total revenue": 276243.86714285717
+    },
+    {
+      "week": 25,
+      "spend": 39754.05428571429,
+      "attributed revenue": 109617.12285714285,
+      "roas": 2.756715190832501,
+      "total revenue": 230058.80857142858
+    },
+    {
+      "week": 26,
+      "spend": 39936.978571428575,
+      "attributed revenue": 112637.87857142858,
+      "roas": 2.816280073317542,
+      "total revenue": 240995.68142857144
+    },
+    {
+      "week": 27,
+      "spend": 45335.635714285716,
+      "attributed revenue": 126634.89142857143,
+      "roas": 2.794736871828263,
+      "total revenue": 262441.71142857143
+    },
+    {
+      "week": 28,
+      "spend": 48367.780000000006,
+      "attributed revenue": 135323.06285714285,
+      "roas": 2.7958483887162116,
+      "total revenue": 284987.83714285714
+    },
+    {
+      "week": 29,
+      "spend": 40382.41571428571,
+      "attributed revenue": 115039.5842857143,
+      "roas": 2.849248583286893,
+      "total revenue": 246035.20857142858
+    },
+    {
+      "week": 30,
+      "spend": 41670.30285714286,
+      "attributed revenue": 116630.66285714286,
+      "roas": 2.798890166572798,
+      "total revenue": 253914.83571428573
+    },
+    {
+      "week": 31,
+      "spend": 45234.72000000001,
+      "attributed revenue": 128094.13857142857,
+      "roas": 2.8364938720660584,
+      "total revenue": 268581.6228571428
+    },
+    {
+      "week": 32,
+      "spend": 46626.01857142857,
+      "attributed revenue": 131765.74,
+      "roas": 2.8261265238204665,
+      "total revenue": 283864.3028571429
+    },
+    {
+      "week": 33,
+      "spend": 43184.19857142858,
+      "attributed revenue": 120477.60285714285,
+      "roas": 2.7821854303816194,
+      "total revenue": 254368.72285714286
+    },
+    {
+      "week": 34,
+      "spend": 40104.21,
+      "attributed revenue": 114108.35142857142,
+      "roas": 2.847897941334762,
+      "total revenue": 240948.11857142858
+    },
+    {
+      "week": 35,
+      "spend": 42343.93285714286,
+      "attributed revenue": 119709.96857142857,
+      "roas": 2.8288448392669756,
+      "total revenue": 256633.24142857143
+    },
+    {
+      "week": 36,
+      "spend": 48926.6,
+      "attributed revenue": 135731.04142857142,
+      "roas": 2.7727426151034216,
+      "total revenue": 299997.8942857143
+    },
+    {
+      "week": 37,
+      "spend": 46526.474,
+      "attributed revenue": 132600.424,
+      "roas": 2.8475602995946407,
+      "total revenue": 275466.928
+    }
+  ]
+}
